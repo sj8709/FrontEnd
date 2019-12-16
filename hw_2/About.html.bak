@@ -1,0 +1,19 @@
+<!doctype html>
+ <head>
+  <title>About 201444032 정성준</title>
+  <link rel="stylesheet" href="css.css">
+ </head>
+ <body bgcolor="black">
+ <h1 style="color:white">About</h1>
+ <p style="color:white" border="5"><Br>
+ <img src="과제지옥.jpg"  width="200" height="200" align="left" hspace="15" vspace="15">
+  <br>정성준의 홈페이지에 오신 것을 환영합니다.<Br><br>
+  인하공업전문학교<br><br>
+  201444032 컴퓨터정보과 a반 정성준<br><br>
+  과제로 만든 홈페이지입니다.<br><br>
+  매우 귀찮은 과제.</p><br><br><hr>
+ <img src="sprial_moon1.jpg"><br>
+ <img src="sprial_moon2.Jpg"><Br><audio src="나선의달.mp3" controls autoplay="autoplay"></audio>
+ <div class="fixed">최종수정날짜<br>2014-05-27</div>
+ </body>
+</html>

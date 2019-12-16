@@ -1,0 +1,29 @@
+<!doctype html>
+ <head>
+   <meta charset="UTF-8">
+  <title>Home 201444032 정성준</title>
+  <link rel="stylesheet" href="css.css">
+  <style type="text/css">
+  img{
+	padding:10px;
+	}
+</style>
+ </head>
+ <body>
+  <br>
+  <h1>Home</h1>
+  <hr>
+  <br>
+  <img src="homebg.jpg" width="40%" height="40%" align="left" hspace="30" vspace="30">
+  <br><br>Welcome to my homepage<br><br>
+  Go slowly and look around<br><br>
+  made by sung jun<br>
+  <img src="1.jpg" width="150" height="150">
+
+  <fieldset>
+   <legend>bgm 재생</legend>
+   <audio id="bgm" src="computer.mp3" loop="loop" autoplay="autoplay" controls></audio>
+  </fieldset>
+ <div class="fixed">최종수정날짜<br>2014-05-27</div>
+ </body>
+</html>

@@ -1,0 +1,31 @@
+<!doctype html>
+ <head>
+  <title>Music 201444032 정성준</title>
+  <link rel="stylesheet" href="css.css">
+ </head>
+ <body>
+  <div class="fixed">최종수정날짜<br>2014-05-27</div>
+  <fieldset>
+   <legend><h2>2014년 대학수학능력시험 영어듣기 B형 21번 22번 (remix Ver.비트)</h2></legend>
+   <br>
+   <img src="b1.JPG" align="center"><Br>
+   <audio src="b21-22.mp3" controls/>
+  </fieldset>
+
+  <hr>
+
+  <fieldset>
+   <legend><h2>Linkin Park - Numb(piano Ver.)</h2></legend>
+   <img src="numb.png" align="center" width="200" height="200"><br><br>
+   <audio src="numb.mp3" controls/>
+  </fieldset>
+
+  <hr>
+
+  <fieldset>
+   <legend><h2>Eminem - Lose your self(가야금 Ver.)</h2></legend>
+   <img src="lose_your_self.jpg" align="center" width="200" height="200"><br><br>
+   <audio src="lose_your_self.mp3" controls>
+  </fieldset>
+ </body>
+</html>
